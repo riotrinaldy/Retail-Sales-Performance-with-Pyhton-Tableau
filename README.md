@@ -73,5 +73,5 @@ It’s a strong example of transforming raw data into insights that drive real b
 
 ## Link
 
-https://public.tableau.com/app/profile/rio.trinaldy/viz/RetailSalesPerformance_17502355017050/Dashboard?publish=yes
+[Dashboard](https://public.tableau.com/app/profile/rio.trinaldy/viz/RetailSalesPerformance_17502355017050/Dashboard?publish=yes)
 
